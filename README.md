@@ -39,10 +39,6 @@ Two useful additional tables the company could query:
 
 
 
-Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
-In the Employee_Database_challenge.sql file, write a query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.
-Deliverable 3: A written report on the employee database analysis (README.md)
-For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming "silver tsunami."
 
 
 
