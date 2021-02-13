@@ -10,7 +10,7 @@ FROM employees as e
 INNER JOIN titles as t
 ON (e.emp_no = t.emp_no)
 --Conditional, filter on bithdate column to retieve the employees born between 1952-1955
-WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 --order by employee number
 ORDER BY e.emp_no;
 
